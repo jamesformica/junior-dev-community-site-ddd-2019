@@ -1,0 +1,14 @@
+{
+  "name": "junior-dev-community-site-ddd-2019",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jamesformica/junior-dev-community-site-ddd-2019.git",
+  "author": "James Formica <james.formica@rea-group.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  }
+}
