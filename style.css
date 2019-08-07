@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+body,
+button {
+  font-family: 'Rubik', sans-serif;
+}
+
+.jd_header {
+  background: black;
+  padding: 10px 20px;
+}
+
+.jd_article {
+  flex-grow: 1;
+}
+
+.jd_footer {
+  text-align: center;
+  padding: 20px;
+}
